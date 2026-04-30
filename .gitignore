@@ -1,0 +1,17 @@
+# Build artifacts
+*.o
+*.elf
+*.bin
+*.map
+*.lst
+
+# Backup files
+*.bak
+*.tmp
+
+# Download logs
+wget-log
+
+# IDE
+.vscode/
+.idea/
